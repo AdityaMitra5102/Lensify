@@ -1,3 +1,3 @@
-cd %userprofile%/lensify/src
+cd %userprofile%/Lensify/src
 start "" "cmd"
 start .
