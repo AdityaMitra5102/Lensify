@@ -6,6 +6,7 @@ delay 3
 pip install numpy
 pip install opencv-python
 pip install opencv-contrib-python==3.4.0.12
+echo HERE EITHER opencv-python OR opencv-contrib-python WILL BE INSTALLED. DONT PANIC IF ONE SHOWS AN ERROR.
 pip install pillow
 pip install cmake
 pip install https://files.pythonhosted.org/packages/04/80/cad93b40262f5d09f6de82adbee452fd43cdff60830b56a74c5930f7e277/wheel-0.37.0-py2.py3-none-any.whl
