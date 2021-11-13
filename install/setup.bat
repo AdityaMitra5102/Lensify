@@ -6,3 +6,4 @@ sleep 3
 cd Lensify
 cd install
 installer.bat
+echo IN CASE THIS SHOWS ERRORS, INSTALL GIT FROM https://git-scm.com/download/win AND RERUN THE COMMAND
