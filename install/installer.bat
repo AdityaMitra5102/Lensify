@@ -2,6 +2,7 @@ winget install python --accept-package-agreements --accept-source-agreements
 python get-pip.py
 winget install -e --id Kitware.CMake --accept-package-agreements --accept-source-agreements
 winget install 9NHL4NSC67WM --accept-package-agreements --accept-source-agreements
+delay 3
 pip install numpy
 pip install opencv-python
 pip install opencv-contrib-python==3.4.0.12
